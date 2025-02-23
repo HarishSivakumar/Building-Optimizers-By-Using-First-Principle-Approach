@@ -1,4 +1,4 @@
-# Optimizers from Scratch: Understanding Gradient Descent
+# Optimizers using First Principle Approach
 
 This mini project is focused on understanding how optimization algorithms—particularly gradient descent and its variants—work by implementing them from scratch. The primary goal is to gain a deep insight into the mechanics of parameter updates, momentum, and their overall impact on loss and accuracy during training.
 
